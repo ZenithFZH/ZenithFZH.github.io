@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-15T21:06:31.244Z</updated>
+    <updated>2020-05-15T21:07:12.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -193,6 +193,30 @@ Hebbian学习指的是：图中a, b两个细胞通过突触a'和b'与P（可能�
 <p>用强度变化呈正弦状的刺激（drifting sine wave）或者栅格（grating）做刺激，simple cell由于界限分明的ON/OFF region，响应的频率也是和正弦/栅格的空间频率相似的。而complex cell由于ON/OFF region大部分重叠，上升时响应，下降时也响应，响应的频率会是双倍的刺激频率。其实讲义所引用的文献并未给出这个现象，是在Visual Perception: The Neurophysiological Foundations一书中具体引用了Maffei 1985年的文章的图。<br>
 <img src="https://zenithfzh.co/post-images/1589556544731.png" alt="freqdouble" loading="lazy"><br>
 复杂细胞的这一现象，说明其非线性性更强。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于 About This Site]]></title>
+        <id>https://zenithfzh.co/post/about/</id>
+        <link href="https://zenithfzh.co/post/about/">
+        </link>
+        <updated>2019-01-24T00:09:48.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>这里是记录学习理论与实验神经科学、生物计算建模和日常阅读（科学哲学、社会学、历史学、人文小品等）的体悟。现代科学很复杂。如Karl Popper的认知论所言，我们已经不再能够直接像经典模式所要求的，通过实验结果是否符合预测直接检测一个假设/理论的正确性；我们只能一次检测该理论的一个推论是否正确，如果不正确，则直接可以否决理论。从量子力学的崛起开始，科学世界就已经进入了“证伪”时代。这是一个困难的时代（可能任何时代的人都会认为自己所处的时代比较糟糕），但是我们并没有看到科学界被吓住。</p>
+<p>说回我个人，我为何会选择修读计算神经科学？我从这个学科的理论与目标中，看到了解读自由意志的可能性。决策、学习、记忆、情绪，等等，这些都在为自由意志的产生服务。这里的“自由”不带政治意涵，是一个单纯的现象描述——只要是非强迫的，都是自由意志，甚至包括决定下一餐要吃什么。如果说，掌握了生物化学，可以指导我们健康生活的话，那么掌握神经科学，就是走在了把控自由意志、成为精神健全人的一条获得修养的途径。</p>
+<p>当然，也会有一些其他内容存在，比如一些其他爱好和心得，比如影评，或者生活记叙。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<ul>
+<li>Student, pursuing master of science degree.</li>
+<li>Europe based, entertained by breathtaking sceneries as well as culturally rich environment.</li>
+<li>Entertained always by pure intellectual ecstasy</li>
+</ul>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>目前因为疫情，宅家研究做饭。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>工作：zhehfu@student.ethz.ch<br>
+<img src="https://zenithfzh.co/post-images/1589576764819.png" alt="biglogo" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
