@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-15T21:27:00.038Z</updated>
+    <updated>2020-05-15T21:30:48.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://zenithfzh.co/post/computational-vision-0319-1/</id>
         <link href="https://zenithfzh.co/post/computational-vision-0319-1/">
         </link>
-        <updated>2020-05-15T13:42:30.000Z</updated>
+        <updated>2020-05-15T07:42:30.000Z</updated>
         <summary type="html"><![CDATA[<p>本节讲课（3月19日上半部分）覆盖的内容为刺激-响应的线性性及其检查，为何在视网膜/V1中线性如此重要，及实验中测得的线性性两种检查方式：正弦（波纹状）刺激和方波刺激。最后讨论空间频率与对比度敏感性的联合测试结果。其核心理论——视网膜神经节细胞是线性的感知单元，建立在Enroth-Cugell等人1983到84年在猫的视网膜上的实验结果。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>本节讲课（3月19日上半部分）覆盖的内容为刺激-响应的线性性及其检查，为何在视网膜/V1中线性如此重要，及实验中测得的线性性两种检查方式：正弦（波纹状）刺激和方波刺激。最后讨论空间频率与对比度敏感性的联合测试结果。其核心理论——视网膜神经节细胞是线性的感知单元，建立在Enroth-Cugell等人1983到84年在猫的视网膜上的实验结果。</p>
@@ -89,6 +89,7 @@ a,b,c分别是三种不同空间频率的刺激。a的频率最低，在整个�
 <p><img src="https://zenithfzh.co/post-images/1589575697560.png" alt="sens2" loading="lazy"><br>
 从底向上，对比度递减；从左向右，频率递增。可以画一条曲线，包住眼睛可以分辨的部分。这条曲线的形状应该和刚才实验测得的曲线是相似的。<br>
 如何理解这条曲线？De Valois提出的解释是：这条曲线是单一细胞的敏感度曲线组成的簇的包络。<strong>注意：这里的“单一细胞”指的是皮层中的细胞cortical</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://zenithfzh.co/post-images/1589578238672.png" alt="inclusion" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
