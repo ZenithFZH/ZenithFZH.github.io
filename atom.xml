@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-15T15:29:47.749Z</updated>
+    <updated>2020-05-15T15:30:49.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://zenithfzh.co/post/computational-vision-0319-notes/</id>
         <link href="https://zenithfzh.co/post/computational-vision-0319-notes/">
         </link>
-        <updated>2020-05-12T22:25:45.000Z</updated>
+        <updated>2020-05-12T16:25:45.000Z</updated>
         <summary type="html"><![CDATA[<p>本节讲课对应的是Lecture 4——皮层内视觉信息处理的后半部分。<br>
 初级视觉皮层简单细胞（V1 simple cells）的刺激-响应特性有线性和非线性的部分。本节从现象出发，导出一个核心框架的模型。该标准可以解释绝大多数在简单刺激下线性和非线性的现象。复杂刺激下，该模型仍有待完善。此节还介绍了初级视觉皮层中的学习现象，简单细胞与复杂细胞的区别。</p>
 ]]></summary>
