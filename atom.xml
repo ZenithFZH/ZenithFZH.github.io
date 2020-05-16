@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-16T14:36:35.936Z</updated>
+    <updated>2020-05-16T21:42:18.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -201,7 +201,7 @@ Hebbian学习指的是：图中a, b两个细胞通过突触a'和b'与P（可能�
         <id>https://zenithfzh.co/post/about/</id>
         <link href="https://zenithfzh.co/post/about/">
         </link>
-        <updated>2019-01-22T20:09:48.000Z</updated>
+        <updated>2019-01-22T13:09:48.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <h2 id="关于本站">🏠 关于本站</h2>
 <p>这里是记录学习理论与实验神经科学、生物计算建模和日常阅读（科学哲学、社会学、历史学、人文小品等）的体悟。现代科学很复杂。如Karl Popper的认知论所言，我们已经不再能够直接像经典模式所要求的，通过实验结果是否符合预测直接检测一个假设/理论的正确性；我们只能一次检测该理论的一个推论是否正确，如果不正确，则直接可以否决理论。从量子力学的崛起开始，科学世界就已经进入了“证伪”时代。这是一个困难的时代（可能任何时代的人都会认为自己所处的时代比较糟糕），但是我们并没有看到科学界被吓住。</p>
@@ -211,7 +211,7 @@ Hebbian学习指的是：图中a, b两个细胞通过突触a'和b'与P（可能�
 <ul>
 <li>Student, pursuing master of science degree in neuroinformatics.</li>
 <li>Europe based, entertained by breathtaking sceneries as well as culturally rich environment.</li>
-<li>Entertained always by pure intellectual ecstasy</li>
+<li>Entertained always by purely intellectual ecstasy</li>
 </ul>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <p>目前因为疫情，宅家研究做饭。</p>
