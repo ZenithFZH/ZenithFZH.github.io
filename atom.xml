@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-18T17:02:14.465Z</updated>
+    <updated>2020-05-18T17:12:03.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://zenithfzh.co/post/salmon-rice/</id>
         <link href="https://zenithfzh.co/post/salmon-rice/">
         </link>
-        <updated>2020-05-15T01:58:57.000Z</updated>
+        <updated>2020-05-14T19:58:57.000Z</updated>
         <summary type="html"><![CDATA[<p>一次嘗試，其背後有很深的含義；以此開啓一個系列——用西洋食材和炊具製作中式菜品，這裏流淌着幾種情思：翻新生活的樂趣，不存在缺乏原材料，只有缺乏巧思；以自我經驗探文化，剝去表層物質化的「洋蔥皮」，抽提文化的內核。汪曾祺先生言：「愛做飯的人，比較不自私。」誠然此時獨居，又逢疫情各處封鎖，必然是每日只能「自私」地做飯，如果我能將心得分享，則也能不自私了吧。<br>
 另外，提前暴雷：素食主義者酌情退出瀏覽 😉</p>
 ]]></summary>
@@ -26,7 +26,8 @@
 <p>瑞士的德語區重鎮——蘇黎世（Zürich）不管刻板印象如何，我是一早就想好，畢業後要來深造。然而，縱有科技文化財經十八般武藝，這裏「吃」字上的名聲，恐怕是與英國人能「一較高下」。瑞士人在吃上講究，但是外食的體驗往往是不合口味，越是收費高的fine-dining，越是往生冷和油膩兩個方向無所不用其極。其地理上偏很北方，又是山區，瓜果蔬菜很單一，幾乎很少水產，主要蛋白就來自畜牧業的供養。瑞士人就像遊戲中的NPC鐵匠鋪，能給你打得一副好刀具（國人熟知的Victorinox軍刀也造廚具），再加受熱絕對均勻的平底鍋，然而一身「頂級裝備」是否真能英雄無敵，還得看自身的修爲造化：一個很大的攔路虎是竈臺，全是電爐，沒有煤氣明火，和國內極不相似。（雖然我以前來過一次，知曉此種情況，然而還是有苦說不出：在家鍛鍊生活自理，再怎麼鍛鍊，真正實操還是不一樣）疫情的到來又是雪上加霜，無處不封鎖（近日剛逐步解除）想偷懶買Pizza和三文治都不可能。</p>
 <p>於是在這種尷尬的情形下，我們的探索開始了。媽媽視訊的時候經常提醒我吃魚，吃蘑菇，吃香腸（火腿），吃米飯。我覺得也有必要列入研究的議程，那就一鍋煮了吧！於是：</p>
 <h2 id="文獻綜述-準備材料"><s>文獻綜述</s> 準備材料</h2>
-<p>吃魚？優質的蛋白來源，首推魚蝦。此地少有淡水魚出產，多是Salmon（三文魚，鮭魚），要麼是產自阿拉斯加，要麼是產自北歐。不管怎樣，有冷凍也有新鮮的，我本人財力有限，帝王鮭那類自然消費不起，如果想做炊飯，新鮮冷藏的幾乎都是供生吃的魚片，厚一些的魚排只能去冷櫃搜索了。</p>
+<p>吃魚？優質的蛋白來源，首推魚蝦。此地少有淡水魚出產，多是Salmon（三文魚，鮭魚），要麼是產自阿拉斯加，要麼是產自北歐。不管怎樣，有冷凍也有新鮮的，我本人財力有限，帝王鮭那類自然消費不起，如果想做炊飯，新鮮冷藏的幾乎都是供生吃的魚片，厚一些的魚排只能去冷櫃搜索了。正好去補圖片的時候遇上了三文魚六折大減價。</p>
+<figure data-type="image" tabindex="1"><img src="https://zenithfzh.co/post-images/1589821893583.jpg" alt="discount" loading="lazy"></figure>
 <p>另外幾樣，則是稀鬆平常貨物。如果跟德語區人民話香腸，幾本書，幾天幾夜都話不完，當然我們選取最平常，也是比較接近國內口味的一種方形切丁的火腿（der Schinkenwürfel）。</p>
 <img src="https://i.imgur.com/a26Al9g.jpg" style="zoom:50%;" />
 <p>這裏有一個更詳細的綜述：</p>
@@ -73,7 +74,7 @@ AI裏有遷移學習（transfer learning），做飯又何嘗不是呢？規程�
 </li>
 <li>
 <p>加入瀝乾的生米，倒入煮好的湯，攪勻，湯的量大概是剛剛覆蓋所有的食材；把魚丁鋪在表面；加入3湯匙醬油（生抽，對應兩碗飯的量）再攪勻；</p>
-<figure data-type="image" tabindex="1"><img src="https://i.imgur.com/tyGPo6I.jpg" alt="together" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://i.imgur.com/tyGPo6I.jpg" alt="together" loading="lazy"></figure>
 </li>
 <li>
 <p>蓋鍋蓋，仍然是大火，10分鐘（對應兩碗飯的量）；然後關火，可以此時中途撒香芹，用餘熱悶5分鐘；確實可以聽到澌澌的聲音；</p>
