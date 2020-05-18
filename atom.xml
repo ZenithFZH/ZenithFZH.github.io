@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-18T17:14:10.193Z</updated>
+    <updated>2020-05-18T18:28:45.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://zenithfzh.co/post/salmon-rice/</id>
         <link href="https://zenithfzh.co/post/salmon-rice/">
         </link>
-        <updated>2020-05-14T19:58:57.000Z</updated>
+        <updated>2020-05-14T13:58:57.000Z</updated>
         <summary type="html"><![CDATA[<p>一次嘗試，其背後有很深的含義；以此開啓一個系列——用西洋食材和炊具製作中式菜品，這裏流淌着幾種情思：翻新生活的樂趣，不存在缺乏原材料，只有缺乏巧思；以自我經驗探文化，剝去表層物質化的「洋蔥皮」，抽提文化的內核。汪曾祺先生言：「愛做飯的人，比較不自私。」誠然此時獨居，又逢疫情各處封鎖，必然是每日只能「自私」地做飯，如果我能將心得分享，則也能不自私了吧。<br>
 另外，提前暴雷：素食主義者酌情退出瀏覽 😉</p>
 ]]></summary>
@@ -29,11 +29,11 @@
 <p>吃魚？優質的蛋白來源，首推魚蝦。此地少有淡水魚出產，多是Salmon（三文魚，鮭魚），要麼是產自阿拉斯加，要麼是產自北歐。不管怎樣，有冷凍也有新鮮的，我本人財力有限，帝王鮭那類自然消費不起，如果想做炊飯，新鮮冷藏的幾乎都是供生吃的魚片，厚一些的魚排只能去冷櫃搜索了。正好去補圖片的時候遇上了三文魚六折大減價。</p>
 <figure data-type="image" tabindex="1"><img src="https://zenithfzh.co/post-images/1589821893583.jpg" alt="discount" loading="lazy"></figure>
 <p>另外幾樣，則是稀鬆平常貨物。如果跟德語區人民話香腸，幾本書，幾天幾夜都話不完，當然我們選取最平常，也是比較接近國內口味的一種方形切丁的火腿（der Schinkenwürfel）。</p>
-<img src="https://i.imgur.com/a26Al9g.jpg" style="zoom:50%;" />
+<figure data-type="image" tabindex="2"><img src="https://zenithfzh.co/post-images/1589826354688.jpg" alt="wurfel" loading="lazy"></figure>
 <p>這裏有一個更詳細的綜述：</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zS06qf_Giac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>然後，蘑菇，本地超市似乎僅有所謂「雙孢蘑菇」賣（就是口蘑，品名用的法語champignon），一種棕色一種白色，沒甚麼其他花樣（就見過一次，一包山菌，裏面有國內吃過的平菇）然而無所謂，都是香的。</p>
-<img src="https://i.imgur.com/T8kxy2s.jpg" alt="mushroom" style="zoom:50%;" />
+<figure data-type="image" tabindex="3"><img src="https://zenithfzh.co/post-images/1589826382978.jpg" alt="mushroom" loading="lazy"></figure>
 <p>如果還想加些營養，洋蔥胡蘿蔔都可以切丁加進去。</p>
 <p>然後就需要找「前人的工作」。這個不需要「下廚房」app，我們有廣大的Youtuber美食博主，給我們展示做飯的各種精妙。當然，要考慮侷限性：你沒有他們一樣的器具，空間，更重要的是那一雙手。所以，用科學的精神來說，就是「可重複性」很好的頻道。這些確實不多，但是也被我找到了。</p>
 <p>首先是<a href="https://www.youtube.com/channel/UCr90FXGOO8nAE9B6FAUeTNA">MASAの料理ABC</a>頻道推出的平底鍋簡單雞肉炊飯：</p>
@@ -46,25 +46,21 @@ AI裏有遷移學習（transfer learning），做飯又何嘗不是呢？規程�
 <h2 id="解決問題修正流程">解決問題：修正流程</h2>
 <p>於是又視訊了媽媽。畢竟是經驗豐富，說話就有課題組導師的風範——「高湯很簡單啊，雞蛋煎炒，scrambled eggs直接加開水，一直燉到乳白色，就是一鍋好湯嘛」</p>
 <p>另外一個要解決的問題是：魚是凍的，解凍的注意事項？經過調研，最佳的方法：隔着防水塑料袋浸泡冷水，半個小時左右。主要是衛生——防止微生物在較高的溫度滋生。（另外，快凍慢融，也是細胞凍存與復甦的一個基本原則嘛）防水袋用完可以收起來下次循環使用（注意環保哦）</p>
-<img src="https://i.imgur.com/HbzsrKQ.jpg" alt="fishwater" title="魚塊分包裝拆開放入冷水中" style="zoom:50%;" />
+<figure data-type="image" tabindex="4"><img src="https://zenithfzh.co/post-images/1589826408404.jpg" alt="fishinwater" loading="lazy"></figure>
 <p>最後就是米的問題。我們參考MASA的做法，米先淘好，然後也是泡冷水，半個小時左右。要做的時候瀝乾。</p>
 <p>如何？兩者同步進行，統籌起來了。</p>
 <h2 id="上手操作">上手操作</h2>
 <ul>
-<li>如上所述，解凍魚排，電飯煲內膽浸泡生米；但是有一個問題：魚排放在防水袋裏會浮在水面上，無法浸泡，此時怎麼辦呢？直接把裝水泡米的電飯煲內膽扣在上面！另外切菜：胡蘿蔔切碎，洋蔥切丁。</li>
-</ul>
-<figure class="half">
-    <img src="https://i.imgur.com/rBYnFXB.jpg" style="zoom:50%;">
-    <img src="https://i.imgur.com/wWnYSTW.jpg" style="zoom:50%;">
-</figure>
-<ul>
-<li>用湯鍋，加油煎雞蛋（放鹽），做成scrambled eggs，微焦，時加入蘑菇翻炒，此時可以加入綜合胡椒調味，然後加水，煮開後在旁邊小火燉，可以一直持續到需要加湯時；</li>
-</ul>
-<figure class="half">
-    <img src="https://i.imgur.com/V47ywQp.jpg" style="zoom:50%;">
-    <img src="https://i.imgur.com/MXuuZbV.jpg" style="zoom:50%;">
-</figure>
-<ul>
+<li>
+<p>如上所述，解凍魚排，電飯煲內膽浸泡生米；但是有一個問題：魚排放在防水袋裏會浮在水面上，無法浸泡，此時怎麼辦呢？直接把裝水泡米的電飯煲內膽扣在上面！另外切菜：胡蘿蔔切碎，洋蔥切丁。<br>
+<img src="https://zenithfzh.co/post-images/1589826446139.jpg" alt="pot" loading="lazy"><br>
+<img src="https://zenithfzh.co/post-images/1589826459596.jpg" alt="veg" loading="lazy"></p>
+</li>
+<li>
+<p>用湯鍋，加油煎雞蛋（放鹽），做成scrambled eggs，微焦，時加入蘑菇翻炒，此時可以加入綜合胡椒調味，然後加水，煮開後在旁邊小火燉，可以一直持續到需要加湯時；<br>
+<img src="https://zenithfzh.co/post-images/1589826489513.jpg" alt="egg1" loading="lazy"><br>
+<img src="https://zenithfzh.co/post-images/1589826498533.jpg" alt="egg2" loading="lazy"></p>
+</li>
 <li>
 <p>平底鍋內加一小塊黃油融化，中小火煎魚排，可以邊上放一些迷迭香，再拍兩瓣蒜頭放旁邊；快完成的時候就可以在鍋裏用鏟弄成小塊，然後盛出放一邊，不用再單獨拿出來放案板上切件了；這裏煎到表面變色微焦就行了，後面還要放鍋裏悶，蛋白營養經不起繁複加熱折騰。<br>
 <img src="https://i.imgur.com/qeZJDX2.jpg" alt="fryfish" loading="lazy"></p>
@@ -74,7 +70,7 @@ AI裏有遷移學習（transfer learning），做飯又何嘗不是呢？規程�
 </li>
 <li>
 <p>加入瀝乾的生米，倒入煮好的湯，攪勻，湯的量大概是剛剛覆蓋所有的食材；把魚丁鋪在表面；加入3湯匙醬油（生抽，對應兩碗飯的量）再攪勻；</p>
-<figure data-type="image" tabindex="2"><img src="https://i.imgur.com/tyGPo6I.jpg" alt="together" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://i.imgur.com/tyGPo6I.jpg" alt="together" loading="lazy"></figure>
 </li>
 <li>
 <p>蓋鍋蓋，仍然是大火，10分鐘（對應兩碗飯的量）；然後關火，可以此時中途撒香芹，用餘熱悶5分鐘；確實可以聽到澌澌的聲音；</p>
