@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zenithfzh.co</id>
     <title>Free Will on Neocortex</title>
-    <updated>2020-05-18T18:29:55.160Z</updated>
+    <updated>2020-05-22T13:59:04.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zenithfzh.co"/>
     <link rel="self" href="https://zenithfzh.co/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://zenithfzh.co/images/avatar.png</logo>
     <icon>https://zenithfzh.co/favicon.ico</icon>
     <rights>All rights reserved 2020, Free Will on Neocortex</rights>
+    <entry>
+        <title type="html"><![CDATA[Computational Vision 0311 V1 Cell & V1 Organization 初级视觉皮层组织]]></title>
+        <id>https://zenithfzh.co/post/computational-vision-0311-cortex2/</id>
+        <link href="https://zenithfzh.co/post/computational-vision-0311-cortex2/">
+        </link>
+        <updated>2020-05-22T00:52:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>本讲的后半部分着重介绍了V1（初级视觉皮层）细胞的总体特性概观和V1区域的整体组织形式。重点不是很多，但是有一些易混淆的部分。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本讲的后半部分着重介绍了V1（初级视觉皮层）细胞的总体特性概观和V1区域的整体组织形式。重点不是很多，但是有一些易混淆的部分。</p>
+<!-- more -->
+<h2 id="关于跳过lgn的问题">关于跳过LGN的问题</h2>
+<p>此课程着重于介绍视觉神经系统各部分的计算（信息处理）功能，对于LGN（外侧膝状体）细胞，其计算上的功能属性和此前介绍的RGC（retinal ganglion cells）有很多相似性：</p>
+<ul>
+<li>感受野的形状相似：基本都是环状，有的ON CENTER/OFF SURROUND，有的OFF CENTER/ON SURROUND</li>
+<li>LGN的刺激-响应信号处理几乎都具有线性性</li>
+<li>LGN和RGC的动作电位发放频率也相似</li>
+</ul>
+<p>综上理由，认为LGN在计算功能上讲，和RGC的信息处理方式有很多相同点，因此简单介绍就略过。</p>
+<h2 id="v1细胞的特性总述">V1细胞的特性总述</h2>
+<h3 id="感受野空间域特性">感受野（空间域特性）</h3>
+<p>V1细胞的感受野，取出几个例子，如下：</p>
+<figure data-type="image" tabindex="1"><img src="https://i.imgur.com/fTnaE7b.png" alt="v1rf" loading="lazy"></figure>
+<p>其具有特征：有更多的sub-region：如最底端的一个感受野，是和一个ON CENTER/OFF SURROUND感受野形状相似（墨西哥帽子，高斯函数差），越往上的图中，感受野的sub-region越多。这就意味着，如果要取得最大的响应，刺激的pattern更加的狭窄，单个subregion more narrow，也就是说，刺激的明-暗处必须和感受野sub-region的起伏完全一致，所具有的选择性也就更强。</p>
+<h3 id="对比度灵敏度-contrast-sensitivity-频域特性">对比度灵敏度 Contrast sensitivity （频域特性）</h3>
+<figure data-type="image" tabindex="2"><img src="https://i.imgur.com/m0zzdgH.png" alt="sens" loading="lazy"></figure>
+<p>对比度敏感度曲线的趋势之前也已介绍过，此处补充强调一点：<strong>该曲线的取得，对于cortical neuron，必须是在最佳的角度orientation处刺激进行测量</strong></p>
+<p>另外，此处还需要注意的是一个展示：感知（perceptual，一个心理物理psychophysical的概念）跟神经元活动层面的敏感度有了一致性，具体说就是整体上被试的对比度敏感度（vs 刺激空间频率的曲线）是单体神经元相应曲线的包络。具体实验绘图如下（在猴子上）其中展示了一个神经元</p>
+<figure data-type="image" tabindex="3"><img src="https://i.imgur.com/B3MuLqG.png" alt="sens3" loading="lazy"></figure>
+<h3 id="对刺激的选择性非常灵敏">对刺激的选择性：非常灵敏</h3>
+<p>V1细胞对刺激的多种属性的选择性都非常敏感，包括：</p>
+<ul>
+<li>刺激的空间频率</li>
+<li>刺激的朝向Orientation</li>
+<li>刺激的运动方向Direction</li>
+</ul>
+<p><em>此处注意：Orientation单指刺激grating的朝向即相对视野的形状特征，而direction专指运动中的方向</em></p>
+<p>Hubel &amp; Wiesel的论文原图，记述了几个V1细胞对刺激的朝向和运动方向的选择性。</p>
+<figure data-type="image" tabindex="4"><img src="https://i.imgur.com/MeWnWD3.png" alt="HW1" loading="lazy"></figure>
+<p>另外，刺激的空间频率也是会被细胞选择的。以下每一横排都是相同的朝向，但是不同的空间频率，分别是不同细胞的最大响应发生时的刺激。</p>
+<figure data-type="image" tabindex="5"><img src="https://i.imgur.com/BzJUCVh.png" alt="DVDV" loading="lazy"></figure>
+<h2 id="retinotopy-视网膜拓扑映射">Retinotopy 视网膜拓扑映射</h2>
+<p>Retinotopy是指视网膜所表示的视场部位在皮层中的再现。通过注射带标记营养物质（此处是2-deoxy-glucose）再追踪的方法，绘出这个对应关系。</p>
+<figure data-type="image" tabindex="6"><img src="https://i.imgur.com/sAcVyWi.png" alt="monkey" loading="lazy"></figure>
+<p>此处注意两点：</p>
+<ul>
+<li>实际上视场中的刺激是交替的：即左图中黑色的部分在下一个时间段会变亮，亮的部分下一个时间段会变暗，如此交替刺激；</li>
+<li>因为视觉通路有视神经的交叉，因此对右眼的刺激实际上绘出的是左脑部分的V1图景，反之亦然。</li>
+</ul>
+<h2 id="皮层放大现象-cortical-magnification">皮层放大现象 Cortical Magnification</h2>
+<p>视觉皮层的放大现象此处未做具体细节的介绍，只提了核心观点：<strong>被观察物在视网膜上两点间距离，投射到皮层后会增加，二者是有不同的</strong></p>
+<figure data-type="image" tabindex="7"><img src="https://i.imgur.com/Q3L7BUT.png" alt="cortmag" loading="lazy"></figure>
+<p>图中纵轴是retinal eccentricity，越往上越远离fovea</p>
+<p>视力表被投射到皮层的映像：</p>
+<figure data-type="image" tabindex="8"><img src="https://i.imgur.com/LMx0jnE.png" alt="shili" loading="lazy"></figure>
+<h2 id="v1的组织">V1的组织</h2>
+<p>V1的组织结构主要有两大特征：</p>
+<ol>
+<li>一定连续性和顺序性</li>
+<li>相似选择性-解剖结构中距离近的关系</li>
+</ol>
+<p>具体涉及到的度量量有二：</p>
+<ol>
+<li>空间选择性中的朝向（Orientation）这是之前就介绍过的</li>
+<li><strong>Ocular Dominance</strong> sometimes called <strong>eye preference</strong> or <strong>eyedness</strong>, the tendency to prefer visual input from one eye to the other 响应更偏好左眼或右眼</li>
+</ol>
+<p>依据此二指标可以进行一系列的分类。为何如此分类？需要考察Hubel &amp; Wiesel最先进行的实验。即穿刺探测距离（track distance, or depth of penetration）和朝向之间的关联。本身只是意图探查神经元所处的皮层位置和朝向选择性之间的关系，但是发现了一些连续性：</p>
+<figure data-type="image" tabindex="9"><img src="https://i.imgur.com/jRncmN6.png" alt="HW2" loading="lazy"></figure>
+<p>不同颜色的点代表眼的偏好是同侧还是异侧（蓝色是同侧）。大多数点是偏好异侧眼，而在一定距离过后，同侧眼开始占据主导。观察发现，在空间上（竖直深度）邻近的两个神经元，其朝向选择性相对接近。</p>
+<p>因此Hubel &amp; Wiesel二人构述了“冰块模型”：他们认为存在一个“朝向皮质柱”，在V1的这一个柱体的空间内，所有的神经元的朝向选择性高度相似。</p>
+<figure data-type="image" tabindex="10"><img src="https://i.imgur.com/WTK5HxQ.png" alt="HW3" loading="lazy"></figure>
+<p>该模型有一个显著特点：Ocular Dominance（眼偏好）的分隔线和不同朝向选择性的边界线是互相垂直的。然而事实上在实体组织里不可能是完全垂直的，是呈现一个网格状，有点类似于冰箱里面的制冰格，因而得名。实验测得的形状如下：</p>
+<figure data-type="image" tabindex="11"><img src="https://i.imgur.com/umNz2Xc.png" alt="column" loading="lazy"></figure>
+<p>此图可以理解为上图表示的实际情形的顶面观。颜色表示的是不同的朝向选择性。如果由此向皮层深度方向刺探，应在同一位置处测得的细胞有相近的朝向选择性。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鮭魚蘑菇煲仔飯]]></title>
         <id>https://zenithfzh.co/post/salmon-rice/</id>
